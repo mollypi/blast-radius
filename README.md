@@ -1,5 +1,7 @@
 # Blast Radius
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/79b069c5-65a1-427e-a9eb-785a0e91e3ab.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/blast-radius?orgId=561911742905)  
+
 [![CircleCI](https://circleci.com/gh/28mm/blast-radius/tree/master.svg?style=svg)](https://circleci.com/gh/28mm/blast-radius/tree/master)
 [![PyPI version](https://badge.fury.io/py/BlastRadius.svg)](https://badge.fury.io/py/BlastRadius)
 
