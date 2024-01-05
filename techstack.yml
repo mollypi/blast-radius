@@ -1,7 +1,8 @@
 repo_name: mollypi/blast-radius
 report_id: e1529ad9904aead086da71fb42cf2322
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T05:33:14+00:00'
+timestamp: '2024-01-05T08:42:04+00:00'
 requested_by: 28mm
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/mollypi/blast-radius
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mollypi/blast-radius
   detection_source: Repo Metadata
 - name: Jinja
   description: Full featured template engine for Python
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/mollypi/blast-radius/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Chase Pierce
   last_updated_on: 2019-06-24 04:15:31.000000000 Z
@@ -47,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/mollypi/blast-radius
   detection_source: Repo Metadata
 - name: CircleCI
   description: Automate your development process quickly, safely, and at scale
@@ -56,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/mollypi/blast-radius/blob/master/.circleci/config.yml
   detection_source: ".circleci/config.yml"
   last_updated_by: Chase Pierce
   last_updated_on: 2019-06-24 04:15:31.000000000 Z
@@ -68,6 +74,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/mollypi/blast-radius
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -77,6 +84,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mollypi/blast-radius
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -86,6 +94,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/mollypi/blast-radius/blob/master/utilities/providers/requirements.txt
   detection_source: utilities/providers/requirements.txt
   last_updated_by: Patrick McMurchie
   last_updated_on: 2017-11-08 05:20:59.000000000 Z
@@ -98,10 +107,11 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/mollypi/blast-radius
   detection_source: Repo Metadata
 - name: beautifulsoup4
   description: Screen-scraping library
-  package_url: https://pypi.org/beautifulsoup4
+  package_url: https://pypi.org/project/beautifulsoup4
   version: 4.7.1
   license: MIT
   open_source: true
@@ -109,13 +119,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19838/default_85689b353a3a9409328e253ea28d859d29151e0c.png
-  detection_source_url: requirements.txt
+  detection_source_url: https://github.com/mollypi/blast-radius/blob/master/requirements.txt
   detection_source: utilities/providers/requirements.txt
   last_updated_by: Patrick McMurchie
   last_updated_on: 2017-11-08 05:20:59.000000000 Z
 - name: requests
   description: Python HTTP for Humans
-  package_url: https://pypi.org/requests
+  package_url: https://pypi.org/project/requests
   version: 2.22.0
   license: Apache-2.0
   open_source: true
@@ -123,7 +133,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
-  detection_source_url: requirements.txt
+  detection_source_url: https://github.com/mollypi/blast-radius/blob/master/requirements.txt
   detection_source: utilities/providers/requirements.txt
   last_updated_by: Patrick McMurchie
   last_updated_on: 2017-11-08 05:20:59.000000000 Z
